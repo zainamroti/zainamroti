@@ -28,11 +28,11 @@ I believe in the problem-solving approach, to look at my projects and solve thei
 
 ## Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=amazon-clone-nextjs)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=reactjs-todo-list)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=amazon-clone-nextjs)](https://github.com/zainamroti/amazon-clone-nextjs)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=reactjs-todo-list)](https://github.com/zainamroti/reactjs-todo-list)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=foodDeliveryApp_flutterUI)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=budgetApp_flutterUI)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=foodDeliveryApp_flutterUI)](https://github.com/zainamroti/foodDeliveryApp_flutterUI)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=budgetApp_flutterUI)](https://github.com/zainamroti/budgetApp_flutterUI)
 
 #### NOTE: 
 - Top Languages do not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on my GitHub.
