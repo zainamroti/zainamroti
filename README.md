@@ -1,7 +1,7 @@
 
 ----------------------------------------**
 ### Hello World!! 👋
-# I'm Zain
+# I'm Zayn
 ----------------------------------------**
 
 A **Software Engineer**, a full stack mobile and web developer, working with Flutter, React/Nextjs & blockchain tech to create beautiful apps for the next web. I have worked on a ton of projects for practice and have built production-ready web apps for clients. I have also worked on flutter apps and have published a few on the play store as well.
