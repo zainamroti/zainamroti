@@ -28,11 +28,10 @@ I believe in the problem-solving approach, to look at my projects and solve thei
 
 ## Repositories:
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=defi-exchange)](https://github.com/zainamroti/defi-exchange)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=nft-game-bs)](https://github.com/zainamroti/nft-game-bs)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=domain-service-BS)](https://github.com/zainamroti/domain-service-BS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=defi-exchange)](https://github.com/zainamroti/defi-exchange)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=MemeDAO-BS)](https://github.com/zainamroti/MemeDAO-BS)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=domain-service-BS)](https://github.com/zainamroti/domain-service-BS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=zeecards-ICO)](https://github.com/zainamroti/zeecards-ICO)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=link_vrf_graph)](https://github.com/zainamroti/link_vrf_graph)
 
