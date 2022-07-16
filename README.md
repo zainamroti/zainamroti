@@ -20,7 +20,7 @@ I believe in the problem-solving approach, to look at my projects and solve thei
 -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainamroti&count_private=true&layout=compact&langs_count=7)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainamroti&count_private=true&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainamroti&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
@@ -29,7 +29,7 @@ I believe in the problem-solving approach, to look at my projects and solve thei
 ## Repositories:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=defi-exchange)](https://github.com/zainamroti/defi-exchange)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=epic-nfts-bs-2)](https://github.com/zainamroti/epic-nfts-bs-2)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=nft-game-bs)](https://github.com/zainamroti/nft-game-bs)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=domain-service-BS)](https://github.com/zainamroti/domain-service-BS)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=MemeDAO-BS)](https://github.com/zainamroti/MemeDAO-BS)
@@ -39,7 +39,7 @@ I believe in the problem-solving approach, to look at my projects and solve thei
 #### NOTE: 
 - Top Languages do not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on my GitHub.
 
-- Most of my work goes into private repositories, on freelance projects.
+- Most of my work goes into private repositories or freelance projects.
 
 - Looking forward to working on some side projects as opensource.
 
