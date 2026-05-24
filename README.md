@@ -1,45 +1,51 @@
+# Hi, I am Zain
 
-----------------------------------------**
-### Hello World!! 👋
-# I'm Zayn
-----------------------------------------**
+Backend-focused full-stack engineer building production APIs, admin systems, mobile app backends, AI/RAG services, and Web3 product integrations.
 
-A **Software Engineer**, a full stack mobile and web developer, working with Flutter, React/Nextjs & blockchain tech to create beautiful apps for the next web. I have worked on a ton of projects for practice and have built production-ready web apps for clients. I have also worked on flutter apps and have published a few on the play store as well.
+My strongest stack is **NestJS, Node.js, TypeScript, PostgreSQL, TypeORM, AWS, Redis/BullMQ, Next.js, OpenAI, Pinecone**, and practical third-party integrations. I started programming in 2016, and today I use AI as an accelerator on top of real engineering fundamentals: debugging, architecture, analytical thinking, and product judgment.
 
-I believe in the problem-solving approach, to look at my projects and solve their problems, not just in a technical way but in ways that are most efficient and user friendly. I try to utilize promising methods and strategies from software engineering that ensure the apps are developed in the most effective and scalable way possible.
+## Current Focus
 
--->
+- Backend ownership for small teams and founder-led products
+- AI chat/RAG backends and document pipelines
+- Admin/mobile APIs and third-party integrations
+- Web3 backend/API support and smart-contract-connected products
+- Flexible remote contract work, ideally 20-25 focused hours/week
 
-- 🔭 I’m currently working with **React.js/Next.js/Node.js/Solidity, Flutter Apps**...
-- 🌱 I’m currently learning **Typescript, Blockchain + Rust, IOT**...
-- 👯 I’m looking to collaborate on projects using **Nextjs, Flutter, Javascript/nodejs/Solidity** ...
-- 💬 Ask me about **Nextjs, Flutter, blockchain or anything related to tech**...
-- 📫 How to reach me: **username @zainamroti on most of the social media**...
-- ⚡ Fun fact: **The first programmer was the daughter of a mad poet**...
+## Recent Work
 
--->
+Most of my strongest recent work is in private/client repositories, but it includes:
 
+- **Renew University backend:** NestJS backend for admin/mobile content workflows, media, videos, ebooks, articles, notifications, search, migrations, Vimeo, WordPress, HighLevel, Firebase, PostgreSQL, Redis/BullMQ, and AWS.
+- **Renew / Ask Bible AI Bot:** AI/RAG backends using OpenAI, Pinecone, LangChain, Redis, PostgreSQL, AWS S3, PDF/HTML parsing, conversation persistence, and embedded chat frontend support.
+- **Zuso Dental:** Full-stack dental platform with NestJS backend, Next.js frontend, PostgreSQL, AWS services, Bull queues, Stripe coupon/payment flows, import jobs, and dashboards.
+- **Adventures in Mission:** NestJS backend for mission/relief operations with auth, users, AWS S3/SES/SNS, WebSockets, CSV import/export, Swagger, and PostgreSQL.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainamroti&count_private=true&layout=compact&langs_count=5)](https://github.com/anuraghazra/github-readme-stats)
+## Stack
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zainamroti&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+**Backend:** Node.js, NestJS, Express.js, TypeScript, REST APIs, WebSockets, Swagger/OpenAPI, auth/RBAC, queues, background jobs
 
-<!-- [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=zainamroti)](https://github.com/anuraghazra/github-readme-stats) -->
+**Databases:** PostgreSQL, TypeORM, migrations, Redis, Firebase, DynamoDB basics
 
-## Repositories:
+**Cloud/Integrations:** AWS S3, SES, SNS, SQS, Firebase Admin, Stripe, Vimeo, WordPress, HighLevel, Google OAuth, Facebook OAuth, JWT/passport
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=nft-game-bs)](https://github.com/zainamroti/nft-game-bs)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=defi-exchange)](https://github.com/zainamroti/defi-exchange)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=MemeDAO-BS)](https://github.com/zainamroti/MemeDAO-BS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=domain-service-BS)](https://github.com/zainamroti/domain-service-BS)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=zeecards-ICO)](https://github.com/zainamroti/zeecards-ICO)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=zainamroti&repo=link_vrf_graph)](https://github.com/zainamroti/link_vrf_graph)
+**AI:** OpenAI API, Pinecone, LangChain, RAG pipelines, document/PDF parsing, embeddings, conversation persistence, streaming chat architecture
 
-#### NOTE: 
-- Top Languages do not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on my GitHub.
+**Frontend:** Next.js, React, Redux, Tailwind CSS, Material UI, Chakra UI, CoreUI, admin dashboards, forms, tables, charts
 
-- Most of my work goes into private repositories or freelance projects.
+**Web3:** Solidity, Hardhat, ethers.js, wagmi, RainbowKit, Thirdweb, token/NFT contracts, wallet integrations, Web3 backend/API support
 
-- Looking forward to working on some side projects as opensource.
+## Contact
 
+- Portfolio: [zee-portfolio.vercel.app](https://zee-portfolio.vercel.app/)
+- GitHub: [@zainamroti](https://github.com/zainamroti)
+- Email: sayedzainjeelani@gmail.com
+
+## GitHub Stats
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zainamroti&count_private=true&layout=compact&langs_count=6)](https://github.com/anuraghazra/github-readme-stats)
+
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=zainamroti&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+
+Note: GitHub language stats only reflect public repository code and do not represent my full client/private work.
 
